@@ -21,17 +21,11 @@ To use the script, follow these steps:
 
 This script is developed for macOS with Google Chrome installed. It has not been tested on other platforms or browsers.
 
-## Contributing
-
-Contributions to this script are welcome. Please fork the repository and submit a pull request with your proposed changes.
-
 ## License
-
-[MIT License](LICENSE)
 
 ## Contact
 
-For any queries or suggestions, please reach out to [Your Email](mailto:webmaster@strickstuff.com).
+For any queries or suggestions, please reach out to [Me](mailto:webmaster@strickstuff.com).
 
 ## Acknowledgments
 
@@ -40,5 +34,4 @@ For any queries or suggestions, please reach out to [Your Email](mailto:webmaste
 
 ---
 
-Developed by James Strickland - 2023
-
+Developed by James Strickland - 2023	
